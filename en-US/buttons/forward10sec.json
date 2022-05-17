@@ -1,0 +1,4 @@
+{
+    "SEEKED": "Seeked **{{current}}** to **{{new}}**.",
+    "ERROR": "Cannot seek current playing track. This may happened because seek duration has exceeded track duration."
+}

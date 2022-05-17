@@ -1,0 +1,10 @@
+{
+    "ERROR_MESSAGE": "An error occurred ```{{error}}```",
+    "JOIN_SUPPORT_GUILD": "Join my discord server to report this bug!",
+    "SUPPORT_GUILD": "Support Server",
+
+    "EMBEDPAGES_PREVIOUS_BUTTON": "Previous Page",
+    "EMBEDPAGES_NEXT_BUTTON": "Next Page",
+    "EMBEDPAGES_END_BUTTON": "End Interaction",
+    "EMBEDPAGES_NOT_FOR_YOU": "This Button is not for you! Only {{user}} can edit this Page!"
+}

@@ -1,0 +1,11 @@
+{
+    "LISTEN_HERE": "Listen here",
+    "NOW_PLAYING": "Now Playing **{{text}}** {{GuildMember}}",
+    "NO_MORE_TRACKS": "No more tracks to play, use **/play** to add some more.",
+    "DESTROYED_PLAYER": "Destroyed the player and left the voice channel due to inactivity use **/play** to start.",
+    "BUY_ME_COFFEE_BUTTON": "Buy Me A Coffee",
+    "TRACK_ERROR": "A error occurred while playing **[{{text}}]({{uri}})** \n```{{error}}```",
+    "JOIN_SUPPORT_GUILD": "Join my discord server to report this bug!",
+    "SUPPORT_GUILD": "Support Server",
+    "USER_KICK": "You kicked me so I destroyed the player."
+}

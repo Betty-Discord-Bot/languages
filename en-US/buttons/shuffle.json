@@ -1,0 +1,5 @@
+{
+    "ERROR_MESSAGE": "Not enough songs in the queue to shuffle!",
+    "SHUFFLED": "Shuffled the queue!",
+    "RESTORED": "Restored the queue!"
+}

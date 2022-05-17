@@ -1,0 +1,4 @@
+{
+    "ERROR_MESSAGE": "Can't disconnect a voice channel if I'm not in one!",
+    "DESTROYED_PLAYER": "Destroyed the player and left the voice channel!"
+}

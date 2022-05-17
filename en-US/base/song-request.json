@@ -1,0 +1,10 @@
+{
+    "REQUEST_BY": "Requested by {{USER}}",
+    "QUEUE_LIST": "Queue list:",
+    "NEXT": "Next",
+    "TRACK": "Track",
+    "INFO": "Join a voice channel and queue songs by name or url in here.",
+
+    "NO_CURRENT_SONG": "No song playing currently",
+    "FOOTER": "Powered by www.Betty.cx"
+}

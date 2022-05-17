@@ -1,0 +1,7 @@
+{
+    "NO_PLAYLIST": "Can't find this Playlist in my Database!",
+    "CANT_UPVOTE": "You can't upvote a banned playlist!",
+    "ALREADY_UPVOTED": "You already upvoted for **{{playlist}}**!",
+    "ALREADY_DOWNVOTED": "You already downvoted for **{{playlist}}** so now you successfully upvoted!",
+    "UPVOTE_SUCCESS": "You successfully upvoted for **{{playlist}}**!"
+}

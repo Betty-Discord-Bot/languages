@@ -1,0 +1,6 @@
+{
+    "REMOVED": "Removed **[{{title}}]({{uri}})** from your liked songs.",
+    "CANTFIND": "Cannot find a track or playlist with this link.",
+    "ERROR": "Error try later!",
+    "ADDED": "Added **[{{title}}]({{uri}})** to your liked songs."
+}
