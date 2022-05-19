@@ -1,0 +1,7 @@
+{
+    "DESC_TEXT": "Hey **{{username}}**, my name is **Betty**!\n\nA powerful Slash Commands only Discord Music bot with functions like custom playlists, 24/7 mode or Song Request Channel and much more.\n\nNobody can see my slash commands? [Re-invite]({{InviteURL}}) me and verify @everyone has the **Use Application Commands** permissions!\n\nNeed Support? [discord.gg/ZVERh35]({{SupportURL}})",
+    "FOOTER": "{{currentPing}} ms | {{guildName}} is on Cluster #{{clusterId}} and Shard #{{shardId}}",
+    "INVITE_BOT": "Invite the Bot",
+    "SUPPORT_SERVER": "Support Server",
+    "VOTE_BOT": "Vote for me"
+}

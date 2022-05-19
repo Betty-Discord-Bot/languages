@@ -1,0 +1,7 @@
+{
+    "ALONE": "You left me alone, so I left the voice channel and destroyed the player.",
+    "BUY_ME_A_COFFEE": "Buy Me A Coffee",
+    "EVERYONE_LEFT": "The player has been paused because everybody left, join back within **10 minutes** to resume playback!",
+    "INACTIVITY": "Destroyed the player and left the voice channel due to inactivity use **/play** to start.",
+    "RESUME": "Resuming playback"
+}

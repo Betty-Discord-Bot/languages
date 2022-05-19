@@ -1,0 +1,16 @@
+{
+    "DEV_MODE": "Bettys Dev Mode is enabled no one can use me!",
+    "INVALID_USER_PERMS": "**{{member}}** Invalid user Permissions!\n\n**Needed User Permissions:** \n{{permissions}}",
+    "INVALID_BOT_PERMS": "**{{member}}** Invalid bot Permissions!\n\n**Needed Bot Permissions:** \n{{permissions}}",
+    "NOT_GUILD": "This command can only be used in a server!",
+    "CMDS_RESTRICTED": "Commands are restricted to",
+    "RETURN_SONGREQUEST": "Please dont use my Commands here. Use the buttons or type the URL/Name of the song in this Channel.",
+    "VOTE_NEEDED": "Please vote here **[Top.gg](https://top.gg/bot/884800931819048980)** or **[discord-botlist.eu](https://discord-botlist.eu/bots/884800931819048980)** to use **{{cmd}}**!",
+    "VOICEONLY": "you have to be connected to a voice channel before you can use this command!",
+    "REST_VOICE": "I am restricted to only join one of the following voice channels",
+    "CANTCONNECT": "I can't connect to your **Voice Channel**!",
+    "SAME_VOICE": "you are not in the same voice channel!",
+    "NEEDDJ": "You need one of the dj roles to use this command.",
+    "NOT_PLAYING": "Nothing is playing right now, use **/play** to add some more.",
+    "COOLDOWN": "Please wait **{{time}} {{suffix}}** before using **{{prefix}}{{cmd}}** again!"
+}

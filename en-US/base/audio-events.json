@@ -1,6 +1,6 @@
 {
     "LISTEN_HERE": "Listen here",
-    "NOW_PLAYING": "Now Playing **{{text}}** {{GuildMember}}",
+    "NOW_PLAYING": "Now Playing **{{text}}**",
     "NO_MORE_TRACKS": "No more tracks to play, use **/play** to add some more.",
     "DESTROYED_PLAYER": "Destroyed the player and left the voice channel due to inactivity use **/play** to start.",
     "BUY_ME_COFFEE_BUTTON": "Buy Me A Coffee",
