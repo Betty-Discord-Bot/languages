@@ -26,7 +26,7 @@
 
    "GET_FOOTER_TEXT": "To edit the dj config use /dj!",
 
-   "NO_VALID_TEXT": "Please choose a vaild text channel.",
+   "NO_VALID_TEXT": "Please choose a valid text channel.",
    "RESTRICTED_COMMAND_CHANNEL": "The restricted command channel is now **{{channel}}**!",
    "RESTRICTED_ALREADY_DISABLED": "The restricted command channel is already disabled.",
    "RESTRICTED_DISABLED": "The restricted command channel is now **disabled**!",
