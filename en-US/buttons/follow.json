@@ -1,6 +1,6 @@
 {
-    "NO_PLAYLIST": "Can't find this Playlist in my Database!",
-    "CANT_FOLLOW": "You can't follow a banned playlist!",
-    "ALREADY_FOLLOW": "You already followed **{{playlist}}**!",
-    "FOLLOW_SUCCESS": "You successfully followed **{{playlist}}**!"
+  "NO_PLAYLIST": "I couldn't find this playlist.",
+  "CANT_FOLLOW": "You can't follow a banned playlist.",
+  "ALREADY_FOLLOW": "You are already following **{{playlist}}**.",
+  "FOLLOW_SUCCESS": "You are now following **{{playlist}}**."
 }
