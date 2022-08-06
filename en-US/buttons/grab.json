@@ -1,9 +1,9 @@
 {
-    "LOADING": "Loading current Song...",
-    "LOOP_QUEUE": "Queue repeat is enabled.",
-    "LOOP_TRACK": "Track repeat is enabled.",
-    "LISTEN_HERE": "Listen here.",
-    "NOW_PLAYING": "Now Playing **{{text}}**",
-    "NEXT_SONGS": "next song(s)",
-    "BY": "by"
+  "LOADING": "Loading the current song...",
+  "LOOP_QUEUE": "Queue repeat is now enabled.",
+  "LOOP_TRACK": "Track repeat is now enabled.",
+  "LISTEN_HERE": "Listen here.",
+  "NOW_PLAYING": "Now playing **{{text}}**",
+  "NEXT_SONGS": "next song(s)",
+  "BY": "by"
 }

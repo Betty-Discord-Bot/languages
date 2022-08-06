@@ -1,7 +1,7 @@
 {
-    "NO_PLAYLIST": "Can't find this Playlist in my Database!",
-    "CANT_UPVOTE": "You can't upvote a banned playlist!",
-    "ALREADY_UPVOTED": "You already upvoted for **{{playlist}}**!",
-    "ALREADY_DOWNVOTED": "You already downvoted for **{{playlist}}** so now you successfully upvoted!",
-    "UPVOTE_SUCCESS": "You successfully upvoted for **{{playlist}}**!"
+  "NO_PLAYLIST": "I couldn't find this playlist.",
+  "CANT_UPVOTE": "You can't upvote a banned playlist.",
+  "ALREADY_UPVOTED": "You have already upvoted **{{playlist}}**",
+  "ALREADY_DOWNVOTED": "You had downvoted **{{playlist}}**, now you upvoted it!",
+  "UPVOTE_SUCCESS": "You successfully upvoted **{{playlist}}**"
 }
