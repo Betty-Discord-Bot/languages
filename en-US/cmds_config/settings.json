@@ -3,15 +3,15 @@
    "ANONYM_DISABLED": "**Anonym Requester** is now **disabled**",
    "ANNOUNCE_TRACKS_ENABLED": "**Announcing of tracks** is now **enabled**",
    "ANNOUNCE_TRACKS_DISABLED": "**Announcing of tracks** is now **disabled**",
-   "NEW_LANGUAGE": "Your **Language** is now set to **{{newLanguage}}**",
+   "NEW_LANGUAGE": "Your Language is now set to **{{newLanguage}}**",
    "VOTE_SKIP_ENABLED": "**vote-skip** command is now **enabled**",
    "VOTE_SKIP_DISABLED": "**vote-skip** command is now **disabled**",
    "247_ENABELD": "**24/7 mode** is now **enabled**",
    "247_DISABLED": "**24/7 mode** is now **disabled**",
-   "HIGH_LOW_VOLUME": "The Number must be higher then **0** and lower then **150**!",
+   "HIGH_LOW_VOLUME": "The mumber must be between 0 and 150.",
    "DEFAULT_VOLUME": "The default volume is now **{{volume}}%**.",
    "SETTINGS": "Settings",
-   
+
    "SHOW_THE_REQUESTER": "Show the Requester",
    "ANNOUNCE_CURRENT": "Announce Current Track",
    "247MODE": "24/7 Mode",
@@ -28,12 +28,12 @@
 
    "NO_VALID_TEXT": "Please choose a vaild text channel.",
    "RESTRICTED_COMMAND_CHANNEL": "The restricted command channel is now **{{channel}}**!",
-   "RESTRICTED_ALREADY_DISABLED": "The restricted command channel is already **disabled**!",
+   "RESTRICTED_ALREADY_DISABLED": "The restricted command channel is already disabled.",
    "RESTRICTED_DISABLED": "The restricted command channel is now **disabled**!",
 
-   "ALREADY_SONGREQUEST": "The song request channel is already **created**, disable them first before creating one!",
-   "INVALID_PERMS_USER": "Invalid user Permissions!\n\n**Needed User Permissions:**",
-   "CREATING_VOICE": "Creating Channel please wait...",
+   "ALREADY_SONGREQUEST": "The song request channel is already **created**, disable it first before creating another!",
+   "INVALID_PERMS_USER": "You don't have permissions to do this!\n\n**Required permissions:**",
+   "CREATING_VOICE": "Creating the channel, please wait...",
    "CUSTOM_TEXT_TOO_LONG": "The custom text is too long.",
 
    "GUIDE": "Guide",
@@ -60,20 +60,21 @@
    "NP_TITLE": "No song playing currently",
 
    "CREATION_CANCELD": "The creation got cancelled. The Bot can't send a Message in the Channel.",
-   "CREATION_DONE": "Song request channel has been created, Channel <#{{chan}}>.\n\n**Info**:\nYou can rename or move the channel!",
+   "CREATION_DONE": "Song request channel has been created at <#{{chan}}>.\n\n*You can rename or move the channel.*",
 
    "CANT_CREATE": "Can't create the channel (could be Missing Permissions)!",
 
-   "NO_SONG_REQ_CHANNEL_FOUNC": "There is no current song request channel, create one first!",
-   "SONG_REQ_DISABLED": "Song request channel has been **disabled**.",
-   "SONG_REQ_ALREADY_DISABLED": "The song request channel is already **disabled**!",
-   "SONG_REQ_ALREADY_ENABLED": "The song request channel is already **enabled**!",
-   "SONG_REQ_ENABLED": "Song request channel has been **enabled**.",
-   "MAX_SONG_REQ_LIMIT_REACHED": "You already have **20** restricted voice channels!",
+   "NO_SONG_REQ_CHANNEL_FOUNC": "There isn't any song request channel, create one first!",
+   "SONG_REQ_DISABLED": "Song request channel has been **disabled**!",
+   "SONG_REQ_ALREADY_DISABLED": "The song request channel is already disabled.",
+   "SONG_REQ_ALREADY_ENABLED": "The song request channel is already enabled.",
+   "SONG_REQ_ENABLED": "Song request channel has been **enabled**!",
+   "MAX_SONG_REQ_LIMIT_REACHED": "You an only have a max amount of 20 restricted voice channels.",
+
    
    "ALREADY_RESTRICTED_CHANNEL": "is already a restricted voice channel!",
    "ADDED_RESTRICTED_CHANNEL": "Added **<#{{channel}}>** to the restricted voice channels!",
-   "NO_RESTRICTED_CHANNELS": "You dont have any restricted voice channels!",
-   "REMOVED_RESTRICTED_CHANNEL": "Removed **<#{{channel}}>** from the restricted voice channels!",
-   "ISNT_RESTRICTED_CHANNEL": "isnt a restricted voice channel!"
+   "NO_RESTRICTED_CHANNELS": "There isn't any restricted voice channels.",
+   "REMOVED_RESTRICTED_CHANNEL": "Removed **<#{{channel}}>** from the restricted voice channels.",
+   "ISNT_RESTRICTED_CHANNEL": "isn't a restricted voice channel!"
 }
