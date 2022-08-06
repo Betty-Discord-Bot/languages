@@ -1,13 +1,13 @@
 {
-    "LISTEN_HERE": "Listen here",
-    "NOW_PLAYING": "Now Playing **{{text}}**",
-    "NO_MORE_TRACKS": "No more tracks to play, use **/play** to add some more.",
-    "DESTROYED_PLAYER": "Destroyed the player and left the voice channel due to inactivity use **/play** to start.",
-    "BUY_ME_COFFEE_BUTTON": "Buy Me A Coffee",
-    "TRACK_ERROR": "A error occurred while playing **[{{text}}]({{uri}})** \n```{{error}}```",
-    "JOIN_SUPPORT_GUILD": "Join my discord server to report this bug!",
-    "SUPPORT_GUILD": "Support Server",
-    "USER_KICK": "You kicked me so I destroyed the player.",
-    "PRIME_INFO": "Get Infos About Prime!",
-    "JOIN_GUILD": "My Support Server"
+  "LISTEN_HERE": "Listen here",
+  "NOW_PLAYING": "Now Playing **{{text}}**",
+  "NO_MORE_TRACKS": "No more tracks to play, use **/play** to add some!",
+  "DESTROYED_PLAYER": "Left the voice channel due to inactivity. Use **/play** to start playing!",
+  "BUY_ME_COFFEE_BUTTON": "Buy me a coffee",
+  "TRACK_ERROR": "A error has occurred while playing **[{{text}}]({{uri}})** \n```{{error}}```",
+  "JOIN_SUPPORT_GUILD": "Join the support server to report this bug!",
+  "SUPPORT_GUILD": "Support server",
+  "USER_KICK": "I was kicked from the voice channel, the player was destroyed.",
+  "PRIME_INFO": "Get information about prime",
+  "JOIN_GUILD": "Support server"
 }
