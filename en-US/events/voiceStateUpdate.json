@@ -1,11 +1,11 @@
 {
-    "ALONE": "You left me alone, so I left the voice channel and destroyed the player.",
-    "BUY_ME_A_COFFEE": "Buy Me A Coffee",
-    "EVERYONE_LEFT": "The player has been paused because everybody left, join back within **10 minutes** to resume playback!",
-    "INACTIVITY": "Destroyed the player and left the voice channel due to inactivity use **/play** to start.",
-    "RESUME": "Resuming playback",
-    "PRIME_INFO": "Get Infos About Prime!",
-    "JOIN_GUILD": "My Support Server",
-    "SUPPORT_GUILD": "Support Server",
-    "BUY_ME_COFFEE_BUTTON": "Buy Me A Coffee"
+  "ALONE": "I was alone in the voice channel, so I left.",
+  "BUY_ME_A_COFFEE": "Buy me a coffee",
+  "EVERYONE_LEFT": "The player was paused because everyone left, join back within the next **10 minutes** to resume playback!",
+  "INACTIVITY": "Left the voice channel due to inactivity. Use **/play** to start playing!",
+  "RESUME": "Resuming playback",
+  "PRIME_INFO": "Get information about prime",
+  "JOIN_GUILD": "My support server",
+  "SUPPORT_GUILD": "Support server",
+  "BUY_ME_COFFEE_BUTTON": "Buy me a coffee"
 }
