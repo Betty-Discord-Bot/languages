@@ -1,0 +1,14 @@
+{
+    "NO_INPUT": "Please use only song url or query to play.",
+    "NO_VOICE": "{{member}} you have to be connected to a voice channel before you can use this command!",
+    "CURRENT_QUEUE_TO_LONG_10000": "{{member}} your current queue is too long! (**10000** or more songs)",
+    "CURRENT_QUEUE_TO_LONG_1500": "{{member}} your current queue is too long! (**1500** or more songs) you need prime to add more songs. Click on the Button for more informations.",
+    "SEARCHING_FOR": "Searching for **{{input}}**",
+    "CANT_FIND": "Cannot find a track or playlist with this input.",
+    "PLAYLIST_TO_LONG_10000": "{{member}} If you add this playlist to your queue, the queue limit of **10000 songs** will be reached, due to limits you are not able to do this.",
+    "PLAYLIST_TO_LONG_5000": "{{member}} If you add this playlist to your queue, the queue limit of **1500 songs** will be reached, you need prime to add more songs. Click on the Button for more informations.",
+    "PRIME_INFO_BUTTON": "More Info About Prime",
+    "ADDED_PLAYLIST": "Added **{{songsCount}}** Tracks to the Queue",
+    "PLAY_ERROR": "An error occured while start playing",
+    "ADDED": "Added **{{song}}** to the Queue"
+}

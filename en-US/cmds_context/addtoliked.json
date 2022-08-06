@@ -1,0 +1,7 @@
+{
+    "NO_INPUT": "Please use only song url or query to search.",
+    "NOTHING_FOUND": "Cannot find a track or playlist with this link.",
+    "REMOVED_LIKED": "Removed **{{song}}** from your liked songs.",
+    "ADDED_LIKED": "Added **{{song}}** to your liked songs.",
+    "GOT_ERROR": "Error try later!"
+}
