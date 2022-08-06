@@ -1,12 +1,17 @@
 {
-    "DEV_MODE": "Bettys Dev Mode is enabled no one can use me!",
+    "BOT_STARTING": "Betty is currently starting up. Please wait.",
+    "DEV_MODE": "Betty is currently under maintenance. Please check back later. Or check the support guild: <https://betty.cx/support>!",
+    "USER_BLACKLIST": "You are blacklisted from using Betty. If you think this is a mistake, please contact the support guild: <https://betty.cx/support>!",
+    "SERVER_BLACKLIST": "This server is blacklisted from using Betty. If you think this is a mistake, please contact the support guild: <https://betty.cx/support>!",
     "INVALID_USER_PERMS": "**{{member}}** Invalid user Permissions!\n\n**Needed User Permissions:** \n{{permissions}}",
     "INVALID_BOT_PERMS": "**{{member}}** Invalid bot Permissions!\n\n**Needed Bot Permissions:** \n{{permissions}}",
-    "VOTE_NEEDED": "Please vote here **[Top.gg](https://top.gg/bot/884800931819048980)** or **[discord-botlist.eu](https://discord-botlist.eu/bots/884800931819048980)** to use **{{cmd}}**!",
+    "VOTE_NEEDED": "Please vote here **[discord-botlist.eu](https://discord-botlist.eu/bots/884800931819048980)** to use **{{cmd}}**!\nNote: If you don't wan't to vote you could buy prime for 3$ here: [betty.cx/prime](https://betty.cx/prime)!",
+    "PRIME_NEEDED": "<@{{user}}> Sorry, but this command is exclusive to prime members/servers. Find out more on our website: https://betty.cx/prime or click on the button below!",
     "VOICEONLY": "you have to be connected to a voice channel before you can use this button!",
     "CANTCONNECT": "I can't connect to your **Voice Channel**!",
     "SAME_VOICE": "you are not in the same voice channel!",
     "NEEDDJ": "You need one of the dj roles to use this button.",
     "NOT_PLAYING": "Nothing is playing right now, use **/play** to add some more.",
-    "COOLDOWN": "Please wait **{{time}} {{suffix}}** before using **{{cmd}}** again!"
+    "COOLDOWN": "Please wait **{{time}} {{suffix}}** before using **{{cmd}}** again!",
+    "PRIME_INFO_BUTTON": "More Info About Prime"
 }

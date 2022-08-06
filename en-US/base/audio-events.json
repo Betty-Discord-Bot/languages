@@ -7,5 +7,7 @@
     "TRACK_ERROR": "A error occurred while playing **[{{text}}]({{uri}})** \n```{{error}}```",
     "JOIN_SUPPORT_GUILD": "Join my discord server to report this bug!",
     "SUPPORT_GUILD": "Support Server",
-    "USER_KICK": "You kicked me so I destroyed the player."
+    "USER_KICK": "You kicked me so I destroyed the player.",
+    "PRIME_INFO": "Get Infos About Prime!",
+    "JOIN_GUILD": "My Support Server"
 }

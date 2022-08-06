@@ -1,0 +1,10 @@
+{
+   "TO_MANY_DJ_USERS": "You already have **10** dj users!",
+   "ALREADY_DJ_USER": "is already a dj user!",
+   "IS_A_BOT": "is a Bot but nice try xD!",
+   "ADDED_USER": "Added **{{userTag}}** to the dj users!",
+   "REMOVED_USER": "Removed **{{userTag}}** from the dj users!",
+   "ISNT_A_DJ_USER": "isnt a dj user!",
+   "NO_DJ_USERS": "You dont have any dj users!",
+   "NO_USERS_ADD_SOME": "No users add some with `/djusers add <role>`"
+}

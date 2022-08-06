@@ -3,5 +3,6 @@
     "FOOTER": "{{currentPing}} ms | {{guildName}} is on Cluster #{{clusterId}} and Shard #{{shardId}}",
     "INVITE_BOT": "Invite the Bot",
     "SUPPORT_SERVER": "Support Server",
-    "VOTE_BOT": "Vote for me"
+    "VOTE_BOT": "Vote for me",
+    "PRIME_INFO_BUTTON": "More Info About Prime!"
 }

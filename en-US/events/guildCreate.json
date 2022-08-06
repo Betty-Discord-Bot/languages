@@ -3,5 +3,6 @@
     "FOOTER": "{{currentPing}} ms | {{guildName}} current shard: {{shardId}}",
     "INVITE_BOT": "Invite the Bot",
     "SUPPORT_SERVER": "Support Server",
-    "VOTE_BOT": "Vote for me"
+    "VOTE_BOT": "Vote for me",
+    "PRIMEINFO": "Get Infos About Prime"
 }

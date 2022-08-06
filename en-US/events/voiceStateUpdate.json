@@ -3,5 +3,9 @@
     "BUY_ME_A_COFFEE": "Buy Me A Coffee",
     "EVERYONE_LEFT": "The player has been paused because everybody left, join back within **10 minutes** to resume playback!",
     "INACTIVITY": "Destroyed the player and left the voice channel due to inactivity use **/play** to start.",
-    "RESUME": "Resuming playback"
+    "RESUME": "Resuming playback",
+    "PRIME_INFO": "Get Infos About Prime!",
+    "JOIN_GUILD": "My Support Server",
+    "SUPPORT_GUILD": "Support Server",
+    "BUY_ME_COFFEE_BUTTON": "Buy Me A Coffee"
 }

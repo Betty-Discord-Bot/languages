@@ -1,6 +1,6 @@
 {
-    "ERROR_MESSAGE": "An error occurred ```{{error}}```",
-    "JOIN_SUPPORT_GUILD": "Join my discord server to report this bug!\nIf the Support ask you for a link send them this link:\n{{msgLink}}",
+    "ERROR_MESSAGE": "An error occurred ```{{error}}```\nIf the Support ask you for a link send them this link:\n{{msgLink}}",
+    "JOIN_SUPPORT_GUILD": "Join my discord server to report this bug!",
     "SUPPORT_GUILD": "Support Server",
 
     "EMBEDPAGES_PREVIOUS_BUTTON": "Previous Page",
