@@ -1,8 +1,8 @@
 {
   "NO_HISTORY": "You don't have any history tracked.",
   "ERROR": "An error has occured while starting to play.",
-  "MAX_LENGTH_1": "You can not load this history due to the queue size limit of **10000** songs.",
-  "MAX_LENGTH_2": "You can not load this history due to the queue size limit of **1500** songs, buy prime to add more! Click the button below for more information.",
-  "PRIME_BUTTON": "Get infos about Prime!",
+  "MAX_LENGTH_1": "You cannot load this history due to the queue size limit of **10000** songs.",
+  "MAX_LENGTH_2": "You cannot load this history due to the queue size limit of **1500** songs, buy prime to add more! Click the button below for more information.",
+  "PRIME_BUTTON": "Get information about Prime",
   "HISTORY_LOADED": "Added **{{songs}}** tracks from the history to the queue"
 }

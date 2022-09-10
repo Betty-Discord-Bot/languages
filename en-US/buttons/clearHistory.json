@@ -1,7 +1,7 @@
 {
   "NO_HISTORY": "You don't have any history tracked.",
-  "CONFIRM": "Please confirm that you really want to clear your history!",
-  "NOT_YOUR_BUTTON": "This Button is not for you!",
-  "DONE": "Done, I cleared your history.",
-  "CANCEL": "Cancelled!"
+  "CONFIRM": "Please confirm that you want to clear your history",
+  "NOT_YOUR_BUTTON": "This button is not for you!",
+  "DONE": "Your tracked history was cleared!",
+  "CANCEL": "Cancelled."
 }

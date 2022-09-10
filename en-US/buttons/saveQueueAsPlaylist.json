@@ -1,5 +1,5 @@
 {
-  "TO_LONG": "This Queue don't have any songs!",
-  "REACHED_LIMIT": "You reached the Playlist Limit of **20**!",
-  "DONE": "Saved current queue as one of your playlists. The name is **{{playlistName}}** you can edit this name with </playlist editname:{{cmdId}}>!"
+  "TO_LONG": "The queue is empty.",
+  "REACHED_LIMIT": "You can only have a max amount of 20 playlists.",
+  "DONE": "The queue was saved as a playlist under the name of **{{playlistName}}**. Edit the name of the playlist using </playlist editname:{{cmdId}}>"
 }

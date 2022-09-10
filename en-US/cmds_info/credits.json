@@ -1,11 +1,11 @@
 {
-    "LOADING": "Loading Credits...",
-    "CREDITS_TITLE": "Bot Credits",
-    "BOT_DESC": "Betty is a powerful Discord Music bot with functions like custom playlists or 24/7 mode and much more.",
+  "LOADING": "Loading credits...",
+  "CREDITS_TITLE": "Bot credits",
+  "BOT_DESC": "Betty is a powerful Discord Music bot with functions like custom playlists or 24/7 mode and much more.",
 
-    "DEV": "Main Developer",
-    "THANKS": "Thanks to",
+  "DEV": "Main developer",
+  "THANKS": "Thanks to",
 
-    "ADD_THE_BOT": "Add the bot",
-    "SUPPORT_SERVER": "Support Server"
-}   
+  "ADD_THE_BOT": "Add the bot",
+  "SUPPORT_SERVER": "Support Server"
+}

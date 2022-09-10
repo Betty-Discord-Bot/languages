@@ -1,8 +1,8 @@
 {
   "NO_HISTORY": "You don't have any history tracked.",
-  "HISTORY_TITLE": "{{username}}'s History",
-  "FOOTER": "Page {{currentPage}}/{{nextPage}} | Note: When you reach the 1500 Songs we will clear the History.",
-  "SAVE_AS_PLAYLIST": "Save History as Playlist",
-  "PLAY_HISTORY": "Play History",
-  "CLEAR_HISTORY": "Clear the History"
+  "HISTORY_TITLE": "{{username}}'s history",
+  "FOOTER": "Page {{currentPage}}/{{nextPage}} | Your history will be cleared when you reach 1500 played songs",
+  "SAVE_AS_PLAYLIST": "Save history as a playlist",
+  "PLAY_HISTORY": "Play history",
+  "CLEAR_HISTORY": "Clear the history"
 }

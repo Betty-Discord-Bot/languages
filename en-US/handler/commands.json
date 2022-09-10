@@ -7,7 +7,7 @@
   "INVALID_BOT_PERMS": "I don't have permissions to do this!\n\n**Required bot permissions:** \n{{permissions}}",
   "NOT_GUILD": "This command can only be used in a server!",
   "CMDS_RESTRICTED": "Commands are restricted to",
-  "RETURN_SONGREQUEST": "You can not use commands in this channel. Use the buttons or type the URL/Name instead.",
+  "RETURN_SONGREQUEST": "You cannot use commands in this channel. Use the buttons or type the URL/name instead.",
   "VOTE_NEEDED": "Please vote here **[discord-botlist.eu](https://discord-botlist.eu/bots/884800931819048980)** to use **{{cmd}}**!\n\n*If you don't wan't to vote, you can buy prime for 3$ at  [betty.cx/prime](https://betty.cx/prime)*",
   "PRIME_NEEDED": "This command is exclusive to prime members/servers. Find out more on our website: https://betty.cx/prime or click on the button below!",
   "VOICEONLY": "You have to be connected to a voice channel before you can use this command!",

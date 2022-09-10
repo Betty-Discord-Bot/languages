@@ -1,20 +1,20 @@
 {
-    "GUILDID": "Guild ID",
-    "VOICE_CHANNEL": "Voice Channel",
-    "TEXT_CHANNEL": "Text Channel",
-    "YOUR_VOICE": "Your Voice Channel",
-    "CAN_SEE_CHANNEL": "Can Betty see the Channel?",
-    "CAN_CONNECT": "Can Betty connect?",
-    "CAN_SPEAK": "Can Betty speak?",
-    "CHANNEL_TYPE": "Channel Type",
-    "PLAYER_STAT": "Player State",
-    "PAUSED": "Paused",
-    "PLAYING": "Playing",
-    "NODE_PLAYER": "Node Player",
+  "GUILDID": "Guild ID",
+  "VOICE_CHANNEL": "Voice channel",
+  "TEXT_CHANNEL": "Text channel",
+  "YOUR_VOICE": "Your voice channel",
+  "CAN_SEE_CHANNEL": "Can Betty see the channel?",
+  "CAN_CONNECT": "Can Betty connect?",
+  "CAN_SPEAK": "Can Betty speak?",
+  "CHANNEL_TYPE": "Channel type",
+  "PLAYER_STAT": "Player state",
+  "PAUSED": "Paused",
+  "PLAYING": "Playing",
+  "NODE_PLAYER": "Node player",
 
-    "NO_ACTIVE_PLAYER": "No Active Player",
-    "NONE": "None",
+  "NO_ACTIVE_PLAYER": "No active player",
+  "NONE": "None",
 
-    "YES": "Yes",
-    "NO": "No"
-}   
+  "YES": "Yes",
+  "NO": "No"
+}
