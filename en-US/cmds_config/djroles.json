@@ -5,5 +5,5 @@
   "REMOVED_ROLE": "Removed **{{roleName}}** from the dj-roles!",
   "ISNT_A_DJ_ROLE": "is not a dj-role!",
   "NO_DJ_ROLES": "You don't have any dj-roles!",
-  "NO_ROLES_ADD_SOME": "No dj-roles. Add some using `/djroles add <role>`"
+  "NO_ROLES_ADD_SOME": "No dj-roles. Add some using </djroles add:{{cmdId}}>"
 }

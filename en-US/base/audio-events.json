@@ -1,8 +1,8 @@
 {
   "LISTEN_HERE": "Listen here",
   "NOW_PLAYING": "Now Playing **{{text}}**",
-  "NO_MORE_TRACKS": "No more tracks to play, use </play query:944584343022612494> to add some!",
-  "DESTROYED_PLAYER": "Left the voice channel due to inactivity. Use </play query:944584343022612494> to start playing!",
+  "NO_MORE_TRACKS": "No more tracks to play, use </play query:{{cmdId}}> to add some!",
+  "DESTROYED_PLAYER": "Left the voice channel due to inactivity. Use </play query:{{cmdId}}> to start playing!",
   "BUY_ME_COFFEE_BUTTON": "Buy me a coffee",
   "TRACK_ERROR": "A error has occurred while playing **[{{text}}]({{uri}})** \n```{{error}}```",
   "JOIN_SUPPORT_GUILD": "Join the support server to report this bug!",

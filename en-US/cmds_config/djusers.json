@@ -6,5 +6,5 @@
   "REMOVED_USER": "Removed **{{userTag}}** from the dj-users!",
   "ISNT_A_DJ_USER": "is not a dj-user!",
   "NO_DJ_USERS": "You don't have any dj-users!",
-  "NO_USERS_ADD_SOME": "No dj-users. Add some using `/djusers add <user>`"
+  "NO_USERS_ADD_SOME": "No dj-users. Add some using </djusers add:{{cmdId}}>"
 }

@@ -1,0 +1,5 @@
+{
+  "NO_HISTORY": "You don't have any history tracked.",
+  "REACHED_LIMIT": "You reached the Playlist Limit of **20**!",
+  "DONE": "Saved history as one of your playlists. The name is **{{playlistName}}** you can edit this name with </playlist editname:{{cmdId}}>!"
+}

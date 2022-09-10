@@ -11,7 +11,7 @@
   "CANTCONNECT": "I can't connect to your voice channel.",
   "SAME_VOICE": "You need to be in the same voice channel as me.",
   "NEEDDJ": "You need to be a DJ of this server to use this button.",
-  "NOT_PLAYING": "Nothing is playing right now, use </play query:944584343022612494> to start playing!",
+  "NOT_PLAYING": "Nothing is playing right now, use </play query:{{cmdId}}> to start playing!",
   "COOLDOWN": "Please wait **{{time}} {{suffix}}** before using **{{cmd}}** again!",
   "PRIME_INFO_BUTTON": "More information about prime"
 }

@@ -15,5 +15,5 @@
     "INVITE": "Invite the Bot",
     "SUPPORT": "Support Server",
     "VOTE": "Vote the Bot",
-    "NEED_HELP_COMMAND": "Need help on an command, use </help:884882206504390680> [command name]!"
+    "NEED_HELP_COMMAND": "Need help on an command, use </help:{{cmdId}}> [command name]!"
 }   
