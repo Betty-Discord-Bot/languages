@@ -37,7 +37,7 @@
    "CUSTOM_TEXT_TOO_LONG": "The custom text is too long.",
 
    "GUIDE": "Guide",
-   "GUIDE_DESC": "Enter the song name or URL to play a song.",
+   "GUIDE_DESC": "Type **<@884800931819048980> (song name or url)** in this channel to queue a song.",
 
    "REWIND": "Rewind 10 seconds",
    "PAUSERESUME": "Pause/Resume",
