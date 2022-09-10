@@ -1,0 +1,27 @@
+{
+    "LOADING": "Loading clusters Stats...",
+    "MADE_BY": "Made by",
+    "EMBED_FOOTER": "{{guild}} is on Cluster #{{clusterId}} and Shard #{{shardId}}",
+
+    "GLOBAL": "Global Bot Stats",
+    "ALL_GUILDS": "All Guilds",
+    "PLAYING_PLAYERS": "Playing Players",
+    "SONGS_PLAYED": "Songs Played",
+    "COMMANDS_USED": "Commands Used",
+    "DATABASE_PING": "Database Ping",
+
+
+    "CLUSTER": "Cluster",
+    "CURRENT": "Current",
+    "SHARDS": "Shards",
+    "SERVERS": "Severs",
+    "MEMBERS": "Members",
+    "MEMORY": "Memory",
+    "PING": "Ping",
+    "PLAYERS": "Players",
+    "UPTIME": "Uptime",
+
+    "ADD_THE_BOT": "Add the bot",
+    "SUPPORT_SERVER": "Support Server",
+    "VOTE_BOT": "Vote for the bot"
+}   

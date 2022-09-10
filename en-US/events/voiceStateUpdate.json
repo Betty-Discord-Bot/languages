@@ -1,8 +1,8 @@
 {
   "ALONE": "I was alone in the voice channel, so I left.",
   "BUY_ME_A_COFFEE": "Buy me a coffee",
-  "EVERYONE_LEFT": "The player was paused because everyone left, join back within the next **10 minutes** to resume playback!",
-  "INACTIVITY": "Left the voice channel due to inactivity. Use **/play** to start playing!",
+  "EVERYONE_LEFT": "The player was paused because everyone left, join back within the next **2 minutes** to resume playback!",
+  "INACTIVITY": "Left the voice channel due to inactivity. Use </play query:944584343022612494> to start playing!",
   "RESUME": "Resuming playback",
   "PRIME_INFO": "Get information about prime",
   "JOIN_GUILD": "My support server",

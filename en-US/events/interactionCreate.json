@@ -1,4 +1,5 @@
 {
   "NO_DMS": "This command will not work in direct messages.",
-  "PRIME_ONLY": "Hey! You need prime to use this bot. Get more information about prime by clicking the button below."
+  "PRIME_ONLY": "Hey! You need prime to use this bot. Get more information about prime by clicking the button below.",
+  "CUSTOMBOT_WRONGGUILD": "This bot is only usable on 1 Guild. Please don't use the Bot on any other Guilds."
 }

@@ -3,7 +3,7 @@
   "QUEUE_LIST": "Queue list:",
   "NEXT": "Next",
   "TRACK": "Track",
-  "INFO": "Join a voice channel and queue songs by typing the name or the url in this channel.",
+  "INFO": "Join a voice channel and queue songs by typing the name or the url in this channel.\n\nExample: \n<@{{userId}}> https://open.spotify.com/track/3aauaXWRgwCMoykMbI0Jq1?si=d846cde283de403b",
 
   "NO_CURRENT_SONG": "There isn't any songs playing",
   "FOOTER": "Powered by www.betty.cx"
