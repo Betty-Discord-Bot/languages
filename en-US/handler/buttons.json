@@ -8,10 +8,10 @@
   "VOTE_NEEDED": "Please vote here **[discord-botlist.eu](https://discord-botlist.eu/bots/884800931819048980)** to use **{{cmd}}**!\n\n*If you don't wan't to vote, you can buy prime for 3$ at  [betty.cx/prime](https://betty.cx/prime)*",
   "PRIME_NEEDED": "This command is exclusive to prime members/servers. Find out more on our website: https://betty.cx/prime or click on the button below!",
   "VOICEONLY": "You have to be connected to a voice channel before you can use this button!",
-  "CANTCONNECT": "I can't connect to your voice channel.",
+  "CANTCONNECT": "I can't connect to your voice channel. Run </debug:{{cmdId}}> for more infos.",
   "SAME_VOICE": "You need to be in the same voice channel as me.",
   "NEEDDJ": "You need to be a DJ of this server to use this button.",
-  "NOT_PLAYING": "Nothing is playing right now, use </play query:{{cmdId}}> to start playing!",
+  "NOT_PLAYING": "Nothing is playing right now, use </play:{{cmdId}}> to start playing!",
   "COOLDOWN": "Please wait **{{time}} {{suffix}}** before using **{{cmd}}** again!",
   "PRIME_INFO_BUTTON": "More information about prime"
 }

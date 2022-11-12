@@ -1,0 +1,11 @@
+{
+    "NO_PLAYLISTS_USER": "This user don't have any playlists.",
+    "NEW_PLAYLIST": "Create a new playlist",
+
+    "OPTION_DESCRIPTION": "Songs: {{songs}} | Private: {{private}}",
+    "YES": "Yes",
+    "NO": "No",
+
+    "SELECT": "Select one of {{user}} playlists to view.",
+    "YOUR": "your"
+}

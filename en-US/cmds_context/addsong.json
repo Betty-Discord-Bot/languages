@@ -10,5 +10,6 @@
     "PRIME_INFO_BUTTON": "More Info About Prime",
     "ADDED_PLAYLIST": "Added **{{songsCount}}** Tracks to the Queue",
     "PLAY_ERROR": "An error occured while start playing",
+    "NO_VALID_INPUT": "Query contains an link, which is not an allowed / valid link!",
     "ADDED": "Added **{{song}}** to the Queue"
 }

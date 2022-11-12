@@ -3,5 +3,6 @@
     "NOTHING_FOUND": "Cannot find a track or playlist with this link.",
     "REMOVED_LIKED": "Removed **{{song}}** from your liked songs.",
     "ADDED_LIKED": "Added **{{song}}** to your liked songs.",
+    "NO_VALID_INPUT": "Query contains an link, which is not an allowed / valid link!",
     "GOT_ERROR": "Error try later!"
 }

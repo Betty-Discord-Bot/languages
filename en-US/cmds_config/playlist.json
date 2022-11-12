@@ -17,7 +17,7 @@
   "TOTAL_DURATION": "total duration",
   "PLAYLISTS": "Playlist's",
   "EMPTY": "Empty",
-  "NO_PLAYLISTS_USER": "You don't have any playlists.",
+  "NO_PLAYLISTS_USER": "You/This user don't have any playlists.",
   "CANT_EDIT_BANNED": "You can't edit a banned playlist.",
   "NAME_TO_LONG": "This name is too long!",
   "RENAMED_PLAYLIST": "Renamed **{{PlaylistName}}** to **{{newName}}**!",

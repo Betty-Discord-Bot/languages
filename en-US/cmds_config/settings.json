@@ -32,7 +32,7 @@
    "RESTRICTED_DISABLED": "The restricted command channel is now **disabled**!",
 
    "ALREADY_SONGREQUEST": "The song request channel is already **created**, disable it first before creating another!",
-   "INVALID_PERMS_USER": "You don't have permissions to do this!\n\n**Required permissions:**",
+   "INVALID_PERMS_BOT": "I don't have permissions to do this!\n\n**Required permissions:**",
    "CREATING_VOICE": "Creating the channel, please wait...",
    "CUSTOM_TEXT_TOO_LONG": "The custom text is too long.",
 
@@ -55,7 +55,7 @@
 
 
    "QUEUE_LIST": "Queue list:",
-   "QUEUE_DESC": "Join a voice channel, and queue songs by @pinging the bot and typing the name or the url followed by the ping in this channel.\n\n- Example: <@{{userId}}> https://youtu.be/dQw4w9WgXcQ",
+   "QUEUE_DESC": "Join a voice channel, and queue songs by @pinging the bot and typing the name or the url followed by the ping in this channel.\n\n- Example: <@{{userId}}> https://open.spotify.com/track/1cVnlbtbeq4UT5em0fQG48?si=300aeab6ada54f34",
 
    "NP_TITLE": "No song playing currently",
 

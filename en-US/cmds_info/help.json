@@ -7,7 +7,8 @@
   "EXAMPLE": "Example usage",
   "COOLDOWN": "Cooldown",
   "SECONDS": "seconds",
-  "DJONLY": "Dj only",
+  "DJONLY": "DJ Command",
+  "CANBEDJ": "Can be a DJ Command",
   "NEEDEDPERMS": "Needed bot permissions",
   "EMBED_FOOTER": "{{guild}} is on cluster #{{clusterId}} and shard #{{shardId}}",
   "COMMANDS": "Betty's commands",
@@ -15,5 +16,8 @@
   "INVITE": "Invite the Bot",
   "SUPPORT": "Support Server",
   "VOTE": "Vote for the Bot",
-  "NEED_HELP_COMMAND": "Need help on a specific command? Use </help:{{cmdId}}> [command name]!"
+  "NEED_HELP_COMMAND": "Need help on a specific command? Use </help:{{cmdId}}> [command name]!",
+  "ALL_CMDS": "All commands",
+  "DJ_CMDS": "DJ only Commands",
+  "CLOE": "Learn about Cloe"
 }

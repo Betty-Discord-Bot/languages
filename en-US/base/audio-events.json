@@ -1,13 +1,13 @@
 {
   "LISTEN_HERE": "Listen here",
-  "NOW_PLAYING": "Now Playing **{{text}}**",
-  "NO_MORE_TRACKS": "No more tracks to play, use </play query:{{cmdId}}> to add some!",
-  "DESTROYED_PLAYER": "Left the voice channel due to inactivity. Use </play query:{{cmdId}}> to start playing!",
+  "NOW_PLAYING": "Now Playing **[{{text}}](https://discord.gg/ZVERh35 'An invite link to the support server')**",
+  "NO_MORE_TRACKS": "No more tracks to play, use </play:{{cmdId}}> to add some!",
+  "DESTROYED_PLAYER": "Left the voice channel due to inactivity. Use </play:{{cmdId}}> to start playing!",
   "BUY_ME_COFFEE_BUTTON": "Buy me a coffee",
-  "TRACK_ERROR": "A error has occurred while playing **[{{text}}]({{uri}})** \n```{{error}}```",
+  "TRACK_ERROR": "Too many errors occurred on this guild while playing. We forced deleted the player please try again in some seconds and report this to our support!",
   "JOIN_SUPPORT_GUILD": "Join the support server to report this bug!",
   "SUPPORT_GUILD": "Support server",
-  "USER_KICK": "I was kicked from the voice channel, the player was destroyed.",
+  "USER_KICK": "I got kicked from the voice channel, the player got destroyed.",
   "PRIME_INFO": "Get information about prime",
   "JOIN_GUILD": "Support server"
 }

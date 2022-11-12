@@ -16,5 +16,11 @@
   "NONE": "None",
 
   "YES": "Yes",
-  "NO": "No"
+  "NO": "No",
+
+  "AUDIO": "Audio Ping",
+  "SERVER": "Server Ping",
+
+  "PLAYERNODE": "Audio Node",
+  "RTC": "RTC Voice Region"
 }

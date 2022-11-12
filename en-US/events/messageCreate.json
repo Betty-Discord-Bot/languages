@@ -1,8 +1,9 @@
 {
-  "DESC_TEXT": "Hey, my name is **Betty**!\n\nA powerful Discord music bot with functions like custom playlists, 24/7 mode, song request channel, and much more.\n\nCannot see can see my slash commands? [Re-invite]({{InviteURL}}) me and verify that @everyone has the **Use Application Commands** permissions!\n\nNeed Support? [discord.gg/ZVERh35]({{SupportURL}})",
+  "DESC_TEXT": "Hey, my name is **Betty**!\n\nA powerful Discord Bot to make your server management and moderation easy as possible. Run giveaways, reward users for levels and much more!\n\nCannot see can see my slash commands? [Re-invite]({{InviteURL}}) me and verify that @everyone has the **Use Application Commands** permissions!\n\nNeed Support? [discord.gg/ZVERh35]({{SupportURL}})",
   "FOOTER": "{{currentPing}}ms | {{guildName}} is on cluster #{{clusterId}} and shard #{{shardId}}",
   "INVITE_BOT": "Invite the bot",
   "SUPPORT_SERVER": "Support server",
   "VOTE_BOT": "Vote for me",
-  "PRIME_INFO_BUTTON": "More information about prime"
+  "PRIME_INFO_BUTTON": "More information about prime",
+  "INVITE_CLOE": "Learn about Cloe"
 }
